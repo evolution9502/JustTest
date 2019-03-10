@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carousell News</string>
+    <string name="DATA_SOURCE">https://storage.googleapis.com/carousell-interview-assets/android/carousell_news.json</string>
+    <string name="TITLE">title</string>
+    <string name="DESCRIPTION">description</string>
+    <string name="BANNER_URL">banner_url</string>
+    <string name="TIME">time_created</string>
+    <string name="RANK">rank</string>
+    <string name="RECENT">Recent</string>
+    <string name="POPULAR">Popular</string>
+</resources>
